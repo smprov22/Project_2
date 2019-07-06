@@ -3,8 +3,8 @@ var express = require('express')
 var app = express()
 var passport = require('passport')
 var session = require('express-session')
-var env = require('dotenv').config()
 var exphbs = require('express-handlebars')
+var PORT = process.env.PORT || 5000
 
 // Middleware
 app.use(express.urlencoded({ extended: false }))
@@ -48,6 +48,6 @@ models.sequelize.sync({ force: false }).then(function () {
   console.log(err, 'Something went wrong with the Database Update!')
 })
 
-app.listen(5000, function (err) {
+app.listen(PORT, function (err) {
   if (!err) { console.log(`\n●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷\n●○▷  Rapid Logger is Online!  ●○▷\n●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷●○▷`) } else console.log(err)
 })
