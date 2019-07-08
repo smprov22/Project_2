@@ -3,8 +3,11 @@
 https://rapid-logger.herokuapp.com/
 
 **IF YOU WOULD LIKE TO TRY OUT THE SITE AND DON'T WANT TO REGISTER, PLEASE USE THE TEST ACCOUNT I SET UP TO LOGIN.**
+<br>
 email: test@test.com
+<br>
 password: password
+<br>
 
 The Rapid Logger is designed to be a personal task management system that helps you capture and organize your tasks/events/thoughts quickly and easily.  The brain often doesn't work in an orderly fashion so organizing your task manager that way doesn't always work.  Our rapid logger allows you to quickly type in your events/tasks/notes using hotkeys.  Once you've typed out everything you wanted to add to your log, you hit "Add to Logs" and our rapid logger sorts the information for you.  You also have the ability to update or delete items as you see fit.  Instead of having to click between tabs to enter your information in it's appropriate column, or choose where it goes from a dropdown menu when adding new items, you can just type a simple command in our textbox using our hotkeys and then add the information you want to log, and when you are done adding all your data our program will organize it for you.
 
