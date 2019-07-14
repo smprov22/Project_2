@@ -2,7 +2,7 @@
 
 https://rapid-logger.herokuapp.com/
 
-![Rapid-Logger](/public/images/screenshots/Rapid-Logger_dashboard.png)
+![Rapid-Logger](/public/images/screenshots/Rapid-Logger_dashboard.PNG)
 
 **IF YOU WOULD LIKE TO TRY OUT THE SITE AND DON'T WANT TO REGISTER, PLEASE USE THE TEST ACCOUNT I SET UP TO LOGIN.**
 <br>
